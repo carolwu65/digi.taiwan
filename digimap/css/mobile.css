@@ -1,0 +1,9 @@
+
+.wrapper1 .desktop {
+	display:none;
+}
+
+
+.wrapper1 .mobile {
+	display:inline;
+}

@@ -1,0 +1,48 @@
+<section id="{{include.section}}" class="text-content">
+        {% capture content %}{%include_relative {{include.content}}%}{% endcapture %}
+        {{content | markdownify}}
+</section>
+
+{% if include.background-mode == "color" %}
+    <style>
+        #{{include.section}} {
+            background: {{include.background}};
+            text-align: center;
+            padding: 2rem;
+            margin: 0;
+        }
+
+        #{{include.section}} p {
+            color: rgba(0, 0, 0, 0.5);
+            max-width: 900px;
+            margin: 2rem auto;
+            text-align: justify;
+        }
+    </style>
+{% endif %}
+
+{% if include.background-mode == "gradient" %}
+    <style>
+        #{{include.section}} {
+            background: url(images/bgtr.svg) top right no-repeat, 
+            url(images/bgbl.svg) bottom left no-repeat, 
+            url(images/bgbl.svg) bottom left no-repeat, 
+            linear-gradient(45deg, {{include.background}});
+            text-align: center;
+            padding: 2rem;
+            margin: 0;
+        }
+
+        #{{include.section}} h2 strong{
+            color: white;
+        }
+
+        #{{include.section}} ul,ol{
+            color: white;
+            max-width: 900px;
+            margin: 2rem auto;
+            list-style: none;
+            text-align: left;
+        }
+    </style>
+{% endif %}

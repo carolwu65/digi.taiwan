@@ -1,0 +1,64 @@
+{% assign dataset = include.dataset | reverse %}
+<section id="{{include.section}}" class="first-post-and-list">
+    <h2>
+        <strong>{{include.title}}</strong>
+    </h2>
+    <div class="container">
+        <div class="row">
+            <div class="6u 12u(mobile)">
+                <a href="{{dataset.first.permalink}}">
+                    <h3>{{dataset.first.title | truncatewords:20}}</h3>
+                    <p >{{dataset.first.date | date: '%B %d, %Y' }}</p>
+                    
+                    <div class="image-10by6" style="background:url({{dataset.first.image}})"></div>
+                    <p>{{dataset.first.summary | truncatewords:20}}</p>
+                </a>
+            </div>
+            <div class="6u 12u(mobile)">
+                <ul style="list-style:none">
+                    {% for post in dataset limit:5 offset:1 %}
+                    <li class="list-article">
+
+                        <a href="{{post.permalink}}" class="image-10by6" style="flex: 0 0 20%;margin-right: 1rem;padding-top:12%;background:url({{post.image}})">
+
+                        </a>
+                        <div>
+                            <h4>
+                                <a href="{{post.permalink}}">{{post.title | truncatewords:20}}</a>
+                            </h4>
+                            {{post.date | date: '%B %d, %Y' }}
+                            <!-- <p>{{post.summary}}</p> -->
+                        </div>
+                    </li>
+                    {% endfor %}
+                </ul>
+                <a style="float:right" href="{{include.listlink}}">more...</a>
+            </div>
+        </div>
+    </div>
+</section>
+<style>
+    .image-10by6 {
+        padding-top: 60%;
+        background-position: center !important;
+        background-size: cover !important;
+    }
+
+    .first-post-and-list {
+        padding: 2rem;
+        background: white;
+        text-align: center;
+    }
+
+    .first-post-and-list h3 {
+        text-align: left;
+    }
+
+    .first-post-and-list .list-article {
+        text-align: left;
+        padding: 1rem;
+        border-bottom: solid 1px #ddd;
+        display: flex;
+        flex-direction: row;
+    }
+</style>

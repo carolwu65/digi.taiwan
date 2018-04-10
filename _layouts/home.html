@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<!--
+	Helios by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		{% include head/seo.html %}
+		{% include head/include.html %}
+	</head>
+
+	<body class="homepage">
+		
+		<div id="page-wrapper">
+
+			<div id="header">
+				{% include header/banner_big.html %}
+				{% include header/nav.html %}
+			</div>
+			
+			{% include digimap.html %}
+
+			
+
+			{% 
+				include footer.html
+			%}
+
+		</div>
+
+		{% include scripts.html %}
+	
+	</body>
+</html>

@@ -1,0 +1,22 @@
+html, body {
+	font-family: "微軟正黑體", "Helvetica Neue", Helvetica, Arial, Verdana, sans-serif;
+}
+
+.container-fluid {
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+.wrapper1 {
+	text-align:center;
+	margin:0 auto;
+}
+
+.wrapper1 .desktop {
+	display:inline;
+}
+
+
+.wrapper1 .mobile {
+	display:none;
+}

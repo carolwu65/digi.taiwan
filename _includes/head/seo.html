@@ -1,0 +1,32 @@
+<title>
+    {{site.data.seo.headline}}
+</title>
+
+<meta name="description" content="{{site.data.seo.description}}" />
+<link rel="canonical" href="{{site.data.seo.url}}" />
+
+
+<meta property="og:title" content="{{site.data.seo.headline}}" />
+<meta property="og:locale" content="{{site.data.seo.inLanguage}}" />
+<meta property="og:description" content="{{site.data.seo.description}}" />
+<meta property="og:url" content="{{site.data.seo.url}}" />
+<meta property="og:site_name" content="{{site.data.seo.headline}}" />
+<meta property="og:image" content="{{site.data.seo.url}}{{site.data.seo.primaryImageOfPage.contentUrl}}" />
+
+
+
+<script type="application/ld+json">
+    {{site.data.seo|jsonify}}
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-114585567-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-114585567-1');
+</script>
+
+<meta name="google-site-verification" content="2b5Rd8tAv4uv9ZQPQaszziAzJkjg_ma_sePsjP9QyH0" />

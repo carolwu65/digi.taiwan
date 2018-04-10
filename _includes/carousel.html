@@ -1,0 +1,82 @@
+<section id="{{include.section}}" class="carousel">
+    <h2>
+        <strong>{{include.title}}</strong>
+    </h2>
+    <div class="reel">
+
+        {% if include.sort=="reverse" %}
+            {% assign dataset = (include.dataset | sort: 'date') | reverse %}
+        {% else %}
+            {% assign dataset = (include.dataset | sort: 'date') %}
+        {% endif %}
+
+        {% for post in dataset %}
+        <article>
+            <a href="{{post.permalink}}" class="image featured" style="background:url({{post.image}})">
+            </a>
+            {% if include.sort %}
+                <p class="date">{{post.date | date: '%B %d, %Y' }}</p>
+            {% endif %}
+            <header>
+                <h3>
+                    <a href="{{post.permalink}}">{{post.title}}</a>
+                </h3>
+            </header>
+            <p>{{post.summary | truncatewords:20}}</p>
+        </article>
+        {% endfor %}
+    </div>
+</section>
+
+<style>
+
+    @media screen and (max-width: 425px){
+        .carousel article{
+            width: 90vw;
+        }
+        .carousel article p {
+            text-align: center !important;
+        }
+    }
+
+    .carousel {
+        padding: 2rem 0 !important;
+    }
+
+    article a {
+        /* height: 8em; */
+        overflow: hidden;
+        margin-bottom: 0px !important;
+    }
+
+    .carousel article {
+        display: inline-table;
+    }
+
+    .carousel {
+        text-align: center;
+        padding: 4.5em 0 4.5em 0;
+    }
+
+    .carousel h2 {
+        margin-bottom: 50px;
+    }
+
+    .image.featured{
+        padding-top:60%;
+        background-size: cover !important;
+        background-position: center !important; 
+    }
+
+    .date {
+        text-align: right !important;
+    }
+</style>
+
+{% if include.background-mode == "color" %}
+<style>
+    #{{include.section}} {
+        background: {{include.background}};
+    }
+</style>
+{% endif %}

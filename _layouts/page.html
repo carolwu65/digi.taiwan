@@ -1,0 +1,65 @@
+<!DOCTYPE HTML>
+<!--
+	Helios by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+    <head>
+            {% include head/seo.html %}
+            {% include head/include.html %}
+    </head>
+
+    <body class="no-sidebar">
+        <div id="page-wrapper">
+
+            <div id="header">
+
+                {% include header/banner_small.html %} 
+                {% include header/nav.html %}
+
+            </div>
+
+            <!-- Main -->
+            <div class="wrapper style1">
+
+                <div class="container">
+                    <article id="main" class="special">
+                        <header>
+                            <h2>
+                                <a href="#">{{page.title}}</a>
+                            </h2>
+                            <p>
+                                {{page.summary}}
+                            </p>
+                        </header>
+                        <a href="#" class="image featured">
+                            <img src="{{page.image}}" alt="" />
+                        </a>
+                        {{content}}
+                    </article>
+                    <hr />
+                </div>
+
+            </div>
+
+            {% include footer.html %}
+
+        </div>
+
+        {% include scripts.html %}
+
+        <style>
+            .container, img {
+                max-width: 960px;
+                width: 100%;
+            }
+            ul{
+                list-style: initial
+            }
+        </style>
+
+    </body>
+
+</html>

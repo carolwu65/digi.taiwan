@@ -1,0 +1,60 @@
+<!DOCTYPE HTML>
+<!--
+	Helios by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+    <head>
+            {% include head/seo.html %}
+            {% include head/include.html %}
+    </head>
+    
+    <body class="no-sidebar">
+        <div id="page-wrapper">
+
+            <div id="header">
+
+                {% include header/banner_small.html %} 
+                {% include header/nav.html %}
+
+            </div>
+
+            <!-- Main -->
+            <div class="wrapper style1">
+                <h2 style="text-align:center">
+                    <strong>
+                        NEWS
+                    </strong>
+                </h2>
+                <div class="container">
+                        <div class="12u">
+                            {% 
+                                include list-view.html 
+                                dataset=site.news
+                            %}
+                        </div>
+                </div>
+
+            </div>
+
+            {% include footer.html %}
+
+        </div>
+
+        {% include scripts.html %}
+
+        <style>
+            .container, img {
+                max-width: 960px;
+                width: 100%;
+            }
+            ul{
+                list-style: initial
+            }
+        </style>
+
+    </body>
+
+</html>

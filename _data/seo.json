@@ -1,0 +1,13 @@
+{
+    "description": "To accelerate Industrial, Innovation, to create Smart Nation.",
+    "@type": "WebPage",
+    "url": "https://ai.taiwan.gov.tw",
+    "headline": "DIGI+ Taiwan",
+    "@context": "http://schema.org",
+    "inLanguage": "en_US",
+    "primaryImageOfPage":{
+        "@context": "http://schema.org",
+        "@type": "ImageObject",
+        "contentUrl": "/images/ogimg.jpg"
+    }
+}
