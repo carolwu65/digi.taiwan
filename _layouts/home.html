@@ -19,9 +19,17 @@
 				{% include header/nav.html %}
 			</div>
 			
-			{% include digimap.html %}
-
 			
+
+			{% 
+				include text-content.html 
+				section="section-vision"
+				content="_data/vision.md"
+				background-mode="color"
+				background="white"
+			%}
+
+			{% include digimap.html %}
 
 			{% 
 				include footer.html

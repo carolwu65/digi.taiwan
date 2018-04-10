@@ -1,5 +1,5 @@
 ## **VISION**
 
-### Innovation, Collaboration and Inspiration
+### To accelerate Industrial, Innovation, to create Smart Nation
 
-Taiwan's ICT and semiconductors have created a good foundation for intelligent technology deveopment. Taiwan is seeking to develop a world-leading AI on Device solution and sound ecosystem that creates a niche market and become an important partner in the value chain of a global intelligent system, which incorporate the hardware and software collaboration to promote AI technology among industries with test fields, regulations, and data-sharing environment.
+In order to ignite the momentum of economic development and drive industries to upgrade and transform, Taiwan needs to enact more aggressive national ICT policies to respond to fast-changing and evolving technologies such as cloud computing, big data, IoT, and ultra-wideband infrastructures in the era of the internet society.
