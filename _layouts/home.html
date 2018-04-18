@@ -38,6 +38,17 @@
 			{% include digimap.html %}
 
 			{% 
+				include carousel.html
+				section="news"
+				title="NEWS"
+				dataset=site.news
+				background-mode="color"
+				background="#f0f4f4"
+				sort="reverse"
+			%}
+
+
+			{% 
 				include footer.html
 			%}
 
