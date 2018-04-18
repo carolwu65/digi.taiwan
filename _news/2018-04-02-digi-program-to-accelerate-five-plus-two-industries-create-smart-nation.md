@@ -8,7 +8,7 @@ layout: page
 ---
 Premier Lai Ching-te on Monday said the Digital Nation and Innovative Economic Development Program (DIGI<sup>+</sup>) is a vital part of the Executive Yuan’s smart nation policy that also provides fertile soil for the “five plus two” innovative industries, boosts Taiwan’s competitiveness, and enhances the quality of life.
 
-The premier’s remarks came at the second committee meeting of the Executive Yuan’s DIGI<sup>+</sup> Task Force, during which the Office of Science and Technology (OST) reported on the progress and future directions of the DIGI+ program.
+The premier’s remarks came at the second committee meeting of the Executive Yuan’s DIGI<sup>+</sup> Task Force, during which the Office of Science and Technology (OST) reported on the progress and future directions of the DIGI<sup>+</sup> program.
 
 The OST said the program saw major accomplishments in 2017 thanks to support from Taiwan’s public and private sectors. New innovation laws including the Financial Technology Development and Innovative Experimentation Act and the Act for the Recruitment and Employment of Foreign Professionals were passed by the Legislature, enabling innovation in financial technology and closing the tech talent and skills deficit for industries.
 
