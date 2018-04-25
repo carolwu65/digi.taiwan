@@ -14,4 +14,5 @@ Taiwan has a plentiful pool of technology talent, said the premier, as well as c
 Following the exchange between the premier and entrepreneurs, a number of agencies and ministries followed up with answers to questions raised. The premier also provided encouragement for a group of 12 startups scheduled to travel to the U.S. to take part in business and trade events.
 
 Date: 2018-04-20
+<br/>
 Source: Department of Information Services, Executive Yuan
