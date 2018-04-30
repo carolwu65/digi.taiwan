@@ -1,7 +1,7 @@
 ---
 title: Premier outlines principles for ties with NSP target countries
 summary: Premier Lai Ching-te on Friday hosted the first in a series of exchanges with business leaders aimed at gathering views and suggestions in order to shape a more responsive government.
-image: https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2018/04/24/realtime/4678308.jpg&x=0&y=0&sw=0&sh=0&sl=W&fw=1050&exp=3600
+image: /images/20180424news.jpg
 permalink: news/premier-outlines-principles-for-ties-with-nsp-target-countries/
 layout: page
 ---
