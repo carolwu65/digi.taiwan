@@ -1,5 +1,5 @@
 ---
-title: Premier Digital economy key to Taiwan’s rise as smart digital nation
+title: Premier：Digital economy key to Taiwan’s rise as smart digital nation
 summary: Premier Lai Ching-te on Thursday said that building Taiwan into a smart digital nation is one of the Executive Yuan’s five major policy objectives, with smart technology serving as the foundation to expand the digital economy and drive industrial innovation and high-value-added production.
 image: /images/DIGI2025.jpg
 permalink: news/premier-Digital-economy-key-to-taiwans-rise-as-smart-digital-nation/
