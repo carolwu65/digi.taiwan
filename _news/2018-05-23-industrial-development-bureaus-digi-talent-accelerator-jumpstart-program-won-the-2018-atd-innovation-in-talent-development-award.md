@@ -1,6 +1,6 @@
 ---
 title: Industrial Development Bureau’s DIGI<sup>+</sup> Talent Accelerator & Jumpstart Program Won the 2018 ATD Innovation in Talent Development Award
-summary: DIGI Talent Accelerator & Jumpstart Program (hereinafter referred to as “DIGI Talent program”)
+summary: DIGI<sup>+</sup> Talent Accelerator & Jumpstart Program (hereinafter referred to as “DIGI Talent program”)
 image: http://img.technews.tw/wp-content/uploads/2018/05/15174558/iii-digitalent-plan-atd-2018-624x387.jpeg
 permalink: news/industrial-development-bureaus-digi-talent-accelerator-jumpstart-program-won-the-2018-atd-innovation-in-talent-development-award/
 layout: page
