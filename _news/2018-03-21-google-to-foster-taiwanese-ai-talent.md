@@ -1,7 +1,7 @@
 ---
 title: Google to foster Taiwanese AI talent
 summary: The 2018 Smart City Summit & Expo (SCSE) along with three sub-expos is currently taking place at Taipei Nangang Exhibition Center and will continue through March 30.
-image: /images/2018321.jpg
+image: /images/20180321.jpg
 category: news
 permalink: news/google-to-foster-taiwanese-ai-talent/
 layout: page
