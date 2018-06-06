@@ -1,7 +1,7 @@
 ---
 title: Premier prompts ministries for action on EU data regulations
 summary: At the Cabinet’s weekly meeting on Thursday, Premier Lai Ching-te directed government agencies to take appropriate measures in preparation for the European Union’s General Data Protection Regulation (GDPR), a new data protection regime that is expected to have global implications.
-image: https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2018/05/24/realtime/4791511.jpg&x=0&y=0&sw=0&sh=0&sl=W&fw=1050&exp=3600
+image: /images/20180530news.jpg
 permalink: news/premier-prompts-ministries-for-action-on-eu-data-regulations/
 layout: page
 ---
