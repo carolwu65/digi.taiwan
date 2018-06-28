@@ -1,7 +1,7 @@
 ---
 title: NCKU, TEPCO Power Grid sign MOU to boost energy innovation in Asia
 summary: National Cheng Kung University (NCKU), Taiwan, signed a Memorandum of Understanding (MoU) with TEPCO Power Grid, Incorporated, Japan, on June 15th, for strengthening the industry-academia linkage and developing a clean energy future in Asia.
-image: http://web.ncku.edu.tw/ezfiles/0/1000/pictures/701/part_179874_8635738_57545.jpg
+image: /images/20180530news.jpg
 permalink: news/ncku-tepcoupower-grid-sign-mou-to-boost-energy-innovation-in-asia/
 layout: page
 ---
