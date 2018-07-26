@@ -1,7 +1,7 @@
 ---
 title: Former Estonia president to visit Taiwan for digital forum
 summary: The upcoming Digital Innovation Forum 2018 is drawing global heavyweights in the field to Taipei, including former Estonia President Toomas Henrik Ilves, whose country is recognized as one of the world's leaders in digitization.
-image: http://bldaily.com/wp-content/uploads/2018/07/20180720000016m-300x200.jpg
+image: https://www.limitlessiq.com/media/post/image/3/f/3f5a76c2-4d50-4322-a12d-b0b7892aaeb9.jpg
 permalink: news/former-estonia-president-to-visit-taiwan-for-digital-forum/
 layout: page
 ---
