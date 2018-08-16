@@ -1,7 +1,7 @@
 ---
 title: Taiwan Minister one of World's Most Influential People in Digital Govt.
 summary: Apolitical ranked Taiwan's Minister Without Portfolio Audrey Tang as one of the world's top 20 most influential people in digital government in 2018
-image: http://img.ltn.com.tw/Upload/liveNews/BigPic/600_php05ngPM.jpg
+image: https://doqvf81n9htmm.cloudfront.net/data/TommyHuang_147/0811/dtw.png
 permalink: news/taiwan-minister-one-of-worlds-most-influential-people-in-digital-govt/
 layout: page
 ---
