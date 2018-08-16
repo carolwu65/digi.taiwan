@@ -25,5 +25,6 @@ In addition, Tang said that even though she was named in the list, the hard work
 
 This honor is an affirmation of the overall social effort being made and "it also encourages us to do even better in the future," Tang said. 
 
-Date：2018-08-11 
+Date：2018-08-11
+<br/>
 Source：Taiwan News
