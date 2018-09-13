@@ -9,7 +9,7 @@ By combining Israel's innovation dynamics and Taiwan's IT manufacturing infrastr
 
 James Huang, chairman of Taiwan External Trade Development Council, said in his opening remarks that Israel is a world-renowned nation of startups, while Taiwan has a complete ecosystem covering R&D, design and manufacturing. The combination and complementation of their advantages will open up unlimited possibilities in the latest self-driving sector. In particular, after leading a delegation to visit Israel this May, Huang said he was deeply impressed by its innovation strength, which prompted the arrangement of this forum, which marked an important milestone for the cooperation between Taiwan and Israel in the high-tech industry. TAITRA will also work to enable cooperation and exchanges between the two sides and promote more business opportunities in the future.
 
-Mobileye's self-driving development strategy
+# Mobileye's self-driving development strategy
 
 Founded in 1999 and acquired by Intel in 2017, Mobileye is an iconic high-tech company in Israel and a leader in the ADAS (advanced driver assistance systems) market. Rosana Su, general manager of Mobileye (Shanghai), said that ever since the company's establishment, it has been committed to the development of monocular-based computer vision processing technology. Until now, there are over 27 million Mobileye-equipped vehicles worldwide, and 13 automakers working with Mobileye to enable autonomous driving.
 
@@ -27,7 +27,7 @@ Statistics show that human error is the cause of most road accidents. By making 
 
 She stressed that the ultimate goal of developing self-driving cars is to reduce accidents, not to pursue high technology for technology's sake. Considering technology maturity and cost factors, this will be a gradual evolution process. Therefore, Mobileye will start from ADAS and slowly add more features in order to achieve the L5 self-driving goal in the long run.
 
-Security of connected devices enhanced by innovative technology
+# Security of connected devices enhanced by innovative technology
 
 Tony Jarvis, chief strategist for Asia Pacific, Middle East and Africa at Check Point Software Technologies, said that AI is progressing rapidly and has been widely adopted by industries. According to statistics, nearly 50% of companies have a defined AI strategy. In fact, AI has undergone long-term development. The recent rapid progress is mainly due to the reduction of storage costs, the improvement of computing power, and the maturity of mathematical algorithms, so that enormous amounts of data can be stored and analyzed.
 
@@ -39,7 +39,7 @@ Check Point, which specializes in IT security technology, is actively developing
 
 He stressed that after the era of mobile and cloud, emerging technologies such as blockchain, Internet of Things, and AI will be the mainstream in the future. The importance of cybersecurity technology will become more prominent. Enterprises must grasp this trend and dare to invest in order to maintain their competitive advantages.
 
-Karamba tackles growing risk of cyberattacks
+# Karamba tackles growing risk of cyberattacks
 
 Founded in 2016, Karamba Security, with its unique security technology for connected cars, has raised a second round of US$27 million in just two years and cooperated with leading companies, including Denso, QNX, Honeywell, and Micro.
 
