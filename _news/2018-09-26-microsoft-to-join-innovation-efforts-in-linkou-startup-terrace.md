@@ -1,7 +1,7 @@
 ---
 title: Microsoft to join innovation efforts in Linkou Startup Terrace
 summary: U.S.-based tech giant Microsoft Corp. announced Tuesday that it will join innovation efforts planned for Taiwan's Startup Terrace in a bid to help the younger generation here strengthen their abilities in new tech development.
-image: http://img5.cna.com.tw/Eng/WebEngPhotos//CEP/20180918/201809180023t0001.jpg
+image: /images/20180926news.jpg
 permalink: news/microsoft-to-join-innovation-efforts-in-linkou-startup-terrace/
 layout: page
 ---
