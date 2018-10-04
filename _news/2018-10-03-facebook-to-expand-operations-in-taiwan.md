@@ -1,7 +1,7 @@
 ---
 title: Facebook to expand operations in Taiwan
 summary: Facebook is planning to expand a project that it launched last year in Taiwan to help local businesses carve out a bigger space in the global market and cultivate digi-tech talent, one of its executives said Thursday in Taipei.
-image: http://img.chinatimes.com/newsphoto/2018-09-27/656/20180927003230.jpg
+image: https://img.chinatimes.com/newsphoto/2018-09-27/656/20180927003227.jpg
 permalink: news/facebook-to-expand-operations-in-taiwan/
 layout: page
 ---
