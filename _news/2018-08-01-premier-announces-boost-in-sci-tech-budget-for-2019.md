@@ -1,7 +1,7 @@
 ---
 title: Premier announces boost in sci-tech budget for 2019
 summary: Premier Lai Ching-te on Thursday convened the 15th meeting of the Board of Science and Technology, during which the Executive Yuan approved a 5.12 percent increase in the government’s regular
-image: https://s.yimg.com/ny/api/res/1.2/eLip6o3gZB7pWH6U34TWPw--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAwO2lsPXBsYW5l/http://media.zenfs.com/zh-Hant-TW/News/peoplenews.tw/cdda96b7-fa9c-4941-9099-06b959af4a1d.jpg
+image: https://www.ocac.gov.tw/OCAC/file/attach/499527/file_84385_s.jpg
 permalink: news/premier-announces-boost-in-sci-tech-budget-for-2019/
 layout: page
 ---
