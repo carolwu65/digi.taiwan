@@ -1,7 +1,7 @@
 ---
 title: APEC information and communications meeting in Taipei centers on IoT, digital governance
 summary: The meeting is expected to produce the APEC Framework for Securing the Digital Economy
-image: images/20181010news.jpg
+image: /images/20181010news.jpg
 permalink: news/apec-information-and-communications-meeting-in-taipei-centers-on-iot-digital-governance/
 layout: page
 ---
