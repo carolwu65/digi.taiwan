@@ -10,6 +10,7 @@ Premier Lai Ching-te (賴清德) said Wednesday that Taiwan's overall ranking of
 Taiwan placed 13th among 140 countries in the latest Global Competitiveness Report released by the Geneva-based WEF.
 
 ![](/images/201811wef.png)
+<br/>
 CNA graphic / Source: WEF
 
 It also ranked fourth among 17 economies in East Asia and the Pacific, finishing behind Singapore (2nd overall), Japan (5th) and Hong Kong (7th) but ahead of Australia (14th), South Korea (15th) and New Zealand (18th).
