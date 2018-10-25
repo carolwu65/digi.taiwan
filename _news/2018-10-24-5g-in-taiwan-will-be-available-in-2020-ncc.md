@@ -1,7 +1,7 @@
 ---
 title: 5G in Taiwan will be available in 2020：NCC
 summary: The chairwoman of the National Communications Commission (NCC), Chan Ting-I (詹婷怡) spoke at the Legislative Yuan on Oct. 4 and said that currently the release of 5G internet service in Taiwan was set to be approved for 2020.
-image: https://www.opusnetworks.co.uk/wp-content/uploads/2016/08/5G-Networks-300x300.jpg
+image: /images/20181024news.jpg
 permalink: news/5g-in-taiwan-will-be-available-in-2020-ncc/
 layout: page
 ---
