@@ -17,7 +17,7 @@ Taiwan possesses a competitive mobile market comprised of six mobile network ope
 
 Taiwan's mobile market is relatively developed compared to other Asian markets and has experienced negative growth over the last five years due to an increasingly saturated market. Flat to very slow growth is predicted over the next five years to 2023. The market will be constrained from higher growth due to a saturated mobile subscriber market and strong local competition.
 
-###Key Developments
+# Key Developments
 
 .Taiwan is implementing a strategy to attain a significant share of the global IoT market.
 .Fixed line penetration is predicted to gradually decline over the next five years to 2023.
@@ -28,7 +28,7 @@ Taiwan's mobile market is relatively developed compared to other Asian markets a
 .APT is the first operator to receive approval to build a trial 5G network.
 .Slowing mobile broadband growth is predicted over the next five years to 2023.
 
-###Companies Featured
+# Companies Featured
 
 .Asia Pacific Broadband Telecommunications
 .Asia Pacific Telecom
@@ -43,7 +43,7 @@ Taiwan's mobile market is relatively developed compared to other Asian markets a
 .Vibo Telecom Ambit
 .WiMAX Telecom
 
-###Topics Covered
+# Topics Covered
 
 1. Key Statistics
 2. Telecommunications Market
