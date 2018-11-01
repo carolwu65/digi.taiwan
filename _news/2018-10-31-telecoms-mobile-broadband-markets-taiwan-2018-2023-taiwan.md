@@ -19,29 +19,29 @@ Taiwan's mobile market is relatively developed compared to other Asian markets a
 
 # Key Developments
 
-.Taiwan is implementing a strategy to attain a significant share of the global IoT market.
-.Fixed line penetration is predicted to gradually decline over the next five years to 2023.
-.Cross border online shopping trade is continuing to grow strongly in Taiwan.
-.Market penetration in the fixed broadband subscriber market has remained flat over the past five years.
-.Taiwan has taken steps to develop a digital economy, encompassing digital media and e-services.
-.Line Corp has announced its entrance into Taiwan's MVNO market.
-.APT is the first operator to receive approval to build a trial 5G network.
-.Slowing mobile broadband growth is predicted over the next five years to 2023.
+* Taiwan is implementing a strategy to attain a significant share of the global IoT market.
+* Fixed line penetration is predicted to gradually decline over the next five years to 2023.
+* Cross border online shopping trade is continuing to grow strongly in Taiwan.
+* Market penetration in the fixed broadband subscriber market has remained flat over the past five years.
+* Taiwan has taken steps to develop a digital economy, encompassing digital media and e-services.
+* Line Corp has announced its entrance into Taiwan's MVNO market.
+* APT is the first operator to receive approval to build a trial 5G network.
+* Slowing mobile broadband growth is predicted over the next five years to 2023.
 
 # Companies Featured
 
-.Asia Pacific Broadband Telecommunications
-.Asia Pacific Telecom
-.Chunghwa Telecom
-.Far Eastone
-.GigaMedia
-.Global Mobile
-.New Century Infocom
-.Taiwan Fixed Network Telecom
-.Taiwan Mobile
-.Tatung Telecom
-.Vibo Telecom Ambit
-.WiMAX Telecom
+* Asia Pacific Broadband Telecommunications
+* Asia Pacific Telecom
+* Chunghwa Telecom
+* Far Eastone
+* GigaMedia
+* Global Mobile
+* New Century Infocom
+* Taiwan Fixed Network Telecom
+* Taiwan Mobile
+* Tatung Telecom
+* Vibo Telecom Ambit
+* WiMAX Telecom
 
 # Topics Covered
 
