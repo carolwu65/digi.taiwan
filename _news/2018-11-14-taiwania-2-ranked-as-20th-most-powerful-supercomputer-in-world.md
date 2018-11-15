@@ -13,11 +13,15 @@ The 20th spot taken by Taiwania marks a quantum leap in performance over its pre
 
 The top two spots on the list were taken by the U.S. with its computers Summit and and Sierra, respectively. China took 3rd and 4th with its Sunway TaihuLight and Tianhe-2A, respectively, while Switzerland rounded out the top five with its Piz Daint. 
 
+![](https://tnimage.taiwannews.com.tw/photos/shares/5bebbc26b39d3.jpeg)
+
 Taiwania 2's computing capacity of 9 quadrillion floating-point operations per second (9 petaFLOPS), only trails supercomputers from the U.S., China, Switzerland, Japan, Germany, France, South Korea, and Italy. Taiwania 2 received an even higher ranking for energy efficiency, seizing 10th place on the Green500 List and is the most energy-saving mainframe computer in Taiwan's history. 
 
 The Taiwania 2 consists of 252 nodes, each of which contains two CPUs and eight of the most advanced GPUs. Its host architecture design is in line with international trends.
 
 Last year, MOST promoted artificial intelligence (AI) as the core of its next generation development model and building an AI cloud computing platform was a very important part of its  "AI Small Country Big Strategy" (AI小國大戰略). After seven months of hard work on hardware construction and performance testing Taiwania 2, this phase been completed, and its performance optimization results were successfully submitted for the latest round of the biannual TOP500 List ranking. 
+
+![](https://tnimage.taiwannews.com.tw/photos/shares/5bebbcce3b80f.jpeg)
 
 Taiwania 2 is slated to be launched in the first half of next year. In addition to utilizing its cloud computing platform to offer fast computing capabilities, large storage space, and a secure network, it will become the largest data marketplace in the country, providing more immediate and convenience services to industry and academia. 
 
