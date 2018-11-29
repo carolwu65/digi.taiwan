@@ -19,7 +19,7 @@ A soft, flexible skin for robots that gives them a human-like sense of touch has
 
 Pingtung Christian Hospital has developed a blockchain-based health record storage that will reduce costs while guarding privacy and enhancing trust between patients and medical professionals. The system makes it easier to securely exchange many different types of medical and personal data.
 
-Learn more about Future Tech Expo 2018 at:[www.futuretech.org.tw](http://www.futuretech.org.tw)
+Learn more about Future Tech Expo 2018 at：[www.futuretech.org.tw](http://www.futuretech.org.tw)
 
 Date：2018-11-27
 <br/>
