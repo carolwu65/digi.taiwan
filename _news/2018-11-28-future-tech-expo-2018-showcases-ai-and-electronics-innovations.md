@@ -1,7 +1,7 @@
 ---
 title: Future Tech Expo 2018 Showcases AI and Electronics Innovations
 summary: Future Tech Expo 2018 runs from December 13 to 15, 2018 at the Taipei World Trade Center, Hall 3 in Taipei, Taiwan.
-image: http://www.futuretech.org.tw/include/img/P1/01-01.png
+image: /images/20181128news.jpg
 permalink: news/future-tech-expo-2018-showcases-ai-and-electronics-innovations/
 layout: page
 ---
@@ -19,7 +19,7 @@ A soft, flexible skin for robots that gives them a human-like sense of touch has
 
 Pingtung Christian Hospital has developed a blockchain-based health record storage that will reduce costs while guarding privacy and enhancing trust between patients and medical professionals. The system makes it easier to securely exchange many different types of medical and personal data.
 
-Learn more about Future Tech Expo 2018 at: www.futuretech.org.tw
+Learn more about Future Tech Expo 2018 at:[www.futuretech.org.tw](http://www.futuretech.org.tw)
 
 Date：2018-11-27
 <br/>
