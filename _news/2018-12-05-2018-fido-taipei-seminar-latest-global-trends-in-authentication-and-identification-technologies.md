@@ -22,6 +22,7 @@ Dongpyo Hong, Vice Chairman of FIDO Korea WG, said 31 South Korea-based firms ha
 Koichi Moriyama, Senior Director of Product Innovation in NTT DOCOMO and Chairman of FIDO Japan WG, gave a presentation on NTT DOCOMO's FIDO Universal Authentication Framework (UAF). To help users who often forget their passwords, NTT DOCOMO advocates adoption of a FIDO UAF specification to deliver a password-less experience, where a user is able to use a form of biometric authentication on their local device, such as a fingerprint or an iris scan to securely log in. In addition to integrating FIDO UAF into its dmarket service. In 2015, NTT DOCOMO had taken the lead in launching UAF-certified devices and servers. He emphasized that FIDO is the best solution in terms of cost, usage, security and range of applications and that NTT DOCOMO plans to further expand FIDO UAF-certified products into all new Android devices.
 
 IC Liu, CEO of Next Bank Preparation Office, moderated a panel discussion, the last session of the seminar. Themed "How Taiwan/Asia Embrace the World," Taipei City Government Department of Information Technology director Wei-Bin Lee, Taiwan Association of Information and Communication Standards (TAICS) secretary general Sheng-Lin Chou, FIDO Alliance executive director Brett McDowell, Asia PKI Consortium (APKIC) representative Dr. Soranun Jiwasurat and legislator Jason Hsu discussed how Taiwan should embrace the new technologies and establish a firm footprint in Asia and even the world in terms of standards, ICT, and culture.
+
 <br/>
 Date：2018-12-03
 <br/>
