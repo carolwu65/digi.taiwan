@@ -1,7 +1,7 @@
 ---
 title: Executive Yuan approves 2019 National Development Plan
 summary: The Executive Yuan on Thursday approved the 2019 National Development Plan proposed by the National Development Council to grow Taiwan’s overall economy by 2.4 to 2.6 percent next year.
-image: https://www.taiwanhot.net/wp-content/uploads/2017/11/5a027faa54173.jpg
+image: /images/20181220news.jpg
 permalink: news/executive-yuan-approves-2019-national-development-plan/
 layout: page
 ---
