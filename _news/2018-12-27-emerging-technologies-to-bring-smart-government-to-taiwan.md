@@ -1,7 +1,7 @@
 ---
 title: Emerging technologies to bring smart government to Taiwan
 summary: In remarks Thursday following a presentation by the National Development Council (NDC) on planning for smart government, Premier Lai Ching-te said that accelerating the digital transformation of government is an important policy for Taiwan to match developments within the international community.
-image: https://storage.googleapis.com/chinapost-images/images/2018/12/efb592e0-1545966391-27bb6ec10c6d40d808588834ebfe8271-696x463.jpg
+image: https://s.yimg.com/ny/api/res/1.2/f7slZ.3oaFDjJwWLHelyoA--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/zh-Hant-TW/homerun/peoplenews.tw/b251e2a1d5a29cb624d64768bd934fd9
 permalink: news/emerging-technologies-to-bring-smart-government-to-taiwan/
 layout: page
 ---
