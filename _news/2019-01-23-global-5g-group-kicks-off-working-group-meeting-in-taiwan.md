@@ -28,6 +28,7 @@ As long as Taiwan is successful in 5G development, it will create major commerci
 He urged the government to update regulations to meet the needs of a fast-changing telecom environment and prevent Taiwan from lagging behind other countries in 5G development.
 
 Since January 2018, Chunghwa Telecom has teamed up with the MOEA's 5G Office, and the government-sponsored Institute for Information Industry (III) and Industrial Technology Research Institute in a 5G development alliance. 
+
 <br/>
 Date：2019-01-22
 <br/>
