@@ -25,18 +25,6 @@
 				</div>
 			</div>
 			
-			
-
-			{% 
-				include text-content.html 
-				section="section-vision"
-				content="_data/vision.md"
-				background-mode="color"
-				background="white"
-			%}
-
-			{% include digimap.html %}
-
 			{% 
 				include carousel.html
 				section="news"
@@ -47,6 +35,15 @@
 				sort="reverse"
 			%}
 
+			{% 
+				include text-content.html 
+				section="section-vision"
+				content="_data/vision.md"
+				background-mode="color"
+				background="white"
+			%}
+
+			{% include digimap.html %}
 
 			{% 
 				include footer.html
