@@ -1,7 +1,7 @@
 ---
 title: Global 5G group kicks off working group meeting in Taiwan
 summary: A five-day working group meeting of the 3rd Generation Partnership Project (3GPP) opened in Taiwan on Monday
-image: http://img5.cna.com.tw/Eng/WebEngPhotos//CEP/20190121/201901210024t0001.jpg
+image: https://img5.cna.com.tw/Eng/WebEngPhotos//CEP/20190121/201901210024t0001.jpg
 permalink: news/global-5g-group-kicks-off-working-group-meeting-in-taiwan/
 layout: page
 ---
