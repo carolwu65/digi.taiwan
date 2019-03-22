@@ -1,7 +1,7 @@
 ---
 title: Taiwan Semiconductor Research Institute inaugurated
 summary: The Taiwan Semiconductor Research Institute (TSRI), a merger of the National Applied Research Laboratories (NARL), the National Chip Implementation Center (CIC) and National Nano Device Laboratories (NDL), was inaugurated in Hsinchu Wednesday.
-image: http://img5.cna.com.tw/Eng/WebEngPhotos//CEP/20190131/201901310004t0001.jpg
+image: https://img5.cna.com.tw/Eng/WebEngPhotos//CEP/20190131/201901310004t0001.jpg
 permalink: news/taiwan-semiconductor-research-institute-inaugurated/
 layout: page
 ---
