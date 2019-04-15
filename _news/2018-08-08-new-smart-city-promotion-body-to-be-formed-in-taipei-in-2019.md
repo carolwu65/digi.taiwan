@@ -1,7 +1,7 @@
 ---
 title: New smart city promotion body to be formed in Taipei in 2019
 summary: In a bid to help Taiwan makers explore smart city business opportunities at home and abroad, Taipei City Government has plans to set up the Global Organization of Smart (GO Smart) in 2019
-image: https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.0-9/20294528_468911143474641_2678882090553037340_n.jpg?_nc_fx=ftpe7-4&_nc_cat=0&oh=4f1154adbb6dc8e22af06f390bbec578&oe=5C048021
+image: https://picante.today/wp-content/uploads/2018/10/3-16.jpg
 permalink: news/new-smart-city-promotion-body-to-be-formed-in-taipei-in-2019/
 layout: page
 ---
