@@ -1,7 +1,7 @@
 ---
 title: Cisco Systems to set up Taoyuan center, Tsai says
 summary: President Tsai Ing-wen (蔡英文) yesterday announced that Cisco Systems Inc, a US-based information technology and networking giant, is to set up an innovation center in Taoyuan in the second half of this year, a move that echoes the nation’s efforts to transform itself into an “Asian Silicon Valley.”
-image: https://www.taipeitimes.com/images/2018/05/05/thumbs/p01-180505-601.jpg
+image: https://img.ltn.com.tw/Upload/liveNews/BigPic/600_phpEk7fwD.jpg
 permalink: news/cisco-systems-to-set-up-taoyuan-center-tsai-says/
 layout: page
 ---
