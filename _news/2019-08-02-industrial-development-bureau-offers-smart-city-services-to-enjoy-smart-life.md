@@ -1,7 +1,7 @@
 ---
 title: Industrial Development Bureau Offers Smart City Services to Enjoy Smart Life
 summary: The Board of Science and Technology (BOST) of the Executive Yuan convened the 8th Meeting of the Smart City Taiwan Communication Platform on July 24
-image:  /images/20190705news.jpg
+image:  /images/20190802news.jpg
 permalink: news/industrial-development-bureau-offers-smart-city-services-to-enjoy-smart-life/
 layout: page
 ---
