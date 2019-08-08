@@ -1,8 +1,7 @@
 ---
 title: Taiwan’s 5G action plan
 summary: On May 10, 2019, the Executive Yuan approved an action plan for 5G technology in Taiwan.
-image:  https://ws.ey.gov.tw/Download.ashx?u=LzAwMS9FeVVwbG9hZC8yL2NrZmlsZS9iMjY5YjM5Mi1lNjdmLTQ4MGYtOGI0YS1iODFmZGRmNWE4OTMuanBn&n=MjAxOTA3MTkg5Y%2bw54GjNUcg6Iux5paHLmpwZw%3d%3d
-permalink: news/taiwans-5g-action-plan/
+image:  /images/20190705news.jpg
 layout: page
 ---
 On May 10, 2019, the Executive Yuan approved an action plan for 5G technology in Taiwan. The four-year plan will run from 2019 to 2022, during which an estimated NT$20.466 billion (US$657.9 million) will be invested. With the imminent arrival of the new 5G mobile communications era and to capitalize on the technology’s immense business potential, the plan calls for the adoption of several strategies—including deregulation, innovation, proofs of concepts, and forging connections—to devotedly pursue the development of all manner of 5G value-added communications services along with vertical applications. The ultimate goal is to build Taiwan into a suitable environment conducive to innovative uses of 5G, which in turn will increase the nation’s digital competitiveness, entrench industrial innovation, and realize a way of life enmeshed with smart technology.
