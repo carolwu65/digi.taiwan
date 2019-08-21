@@ -1,5 +1,5 @@
 ---
-title: Taiwan’s 5G action plan
+title: Taiwan's 5G action plan
 summary: On May 10, 2019, the Executive Yuan approved an action plan for 5G technology in Taiwan.
 image:  /images/20190705news.jpg
 permalink: news/taiwans-5g-action-plan/
