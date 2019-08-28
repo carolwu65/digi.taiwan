@@ -1,5 +1,5 @@
 ---
-title: Premier: Accelerate release of 5G licenses, build smart nation
+title: Premier：Accelerate release of 5G licenses, build smart nation
 summary: Premier Su Tseng-chang on Thursday instructed the National Communications Commission (NCC) to accelerate the release of 5G telecom licenses to help operators build the mobile broadband infrastructure that will transform Taiwan into a smart nation.
 image:  https://img.technews.tw/wp-content/uploads/2019/04/22091740/shutterstock_1183499047-624x351.jpg
 permalink: news/premier-accelerate-release-of-5g-licenses-build-smart-nation/
