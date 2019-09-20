@@ -1,7 +1,7 @@
 ---
 title: Taiwan welcomes global partners in digital transformation
 summary: At a press conference held Tuesday to mark the opening of a new IBM Client Center, Vice Premier Chen Chi-mai said that Taiwan welcomes investments from enterprises the world over to establish a local presence and join Taiwan as close partners as the nation transitions into the digital age.
-image:  https://img.appledaily.com.tw/images/ReNews/20190911/640_a3e7f264798a631494030610bc763290.jpg
+image:  https://www.ey.gov.tw/File/D47456B55C688DF3?S=L
 permalink: news/taiwan-welcomes-global-partners-in-digital-transformation/
 layout: page
 ---
