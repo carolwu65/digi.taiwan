@@ -33,4 +33,4 @@ To facilitate integration of the 5G technology development efforts in Taiwan, th
 <br/>
 Date：2019-09-24
 <br/>
-Source：Department of Information Services, Executive Yuan
+Source：CNA
