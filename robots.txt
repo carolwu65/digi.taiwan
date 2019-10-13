@@ -1,0 +1,5 @@
+# robots.txt for http://digi.taiwan.gov.tw/
+User-agent: *
+Disallow: /images/
+Disallow: /assets/
+Disallow: /digimap/
