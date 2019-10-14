@@ -1,7 +1,7 @@
 ---
 title: Taiwan 4th most innovative country：Global Competitiveness Report 2019
 summary: Taiwan has claimed 12th place out of 141 economies in the Global Competitiveness Report 2019, edging up one slot from last year, according to a report released by the World Economic Forum (WEF).
-image:  /images/20191014news.jpg
+image:  /images/20191014news.JPG
 permalink: news/taiwan-4th-most-innovative-country-global-competitiveness-report-2019/
 layout: page
 ---
