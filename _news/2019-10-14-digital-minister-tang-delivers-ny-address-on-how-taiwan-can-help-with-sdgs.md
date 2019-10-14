@@ -1,7 +1,7 @@
 ---
 title: Digital Minister Tang delivers NY address on how Taiwan Can Help with SDGs
 summary: Taiwan’s Digital Minister Audrey Tang spoke at an event spotlighting the power of innovation, big data and open government and how Taiwan Can Help advance the U.N. Sustainable Development Goals Sept. 28 at Taipei Economic and Cultural Office in New York.
-image:  https://image.taiwantoday.tw/images/content/img20191001160734968_800.jpg
+image:  https://pbs.twimg.com/media/EFmAvN0W4AAP40X.jpg
 permalink: news/digital-minister-tang-delivers-ny-address-on-how-taiwan-can-help-with-sdgs/
 layout: page
 ---
