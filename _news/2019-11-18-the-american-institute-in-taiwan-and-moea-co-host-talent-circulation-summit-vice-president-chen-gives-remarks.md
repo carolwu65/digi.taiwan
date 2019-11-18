@@ -1,7 +1,7 @@
 ---
 title: The American Institute in Taiwan (AIT) and MOEA co-host Talent Circulation Summit, Vice President Chen Gives Remarks
 summary: To promote the globalization of Taiwan`s industry and promote digital talent transformation, The American Institute in Taiwan (AIT), in cooperation with the Industrial Development Bureau, co-hosted the first large-scale Annual Talent Circulation Summit on November 5 at the Nangang Exhibition Center.
-image:  https://www.moea.gov.tw/MNS/english/news/wHandNews_Image.ashx?news_id=87789&serial_no=1&thumb=1
+image:  https://www.moea.gov.tw/MNS/english/news/wHandNews_Image.ashx?news_id=87789&serial_no=1
 permalink: news/the-american-institute-in-taiwan-and-moea-co-host-talent-circulation-summit-vice-president-chen-gives-remarks/
 layout: page
 ---
