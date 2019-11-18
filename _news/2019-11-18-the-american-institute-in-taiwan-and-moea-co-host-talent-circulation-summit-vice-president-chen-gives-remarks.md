@@ -12,6 +12,6 @@ More than 30 internationally renowned leaders and experts are invited to discuss
 Minister Jong-Chin Shen of the Ministry of Economic Affairs said that The Talent Circulation Alliance (TCA) is a public-private partnership that facilitates the circulation of talent between Taiwan and like-minded partners. It will bring together global leaders in the public and private sectors including the U.S. Small Business Administration (SBA), American Chamber of Commerce, National Development Council, Ministry of Science and Technology, and Ministry of Education to promote talent circulation together. The talent circulation expected to develop the most important talent assets in a five-year period to showcase Taiwan success in this area. The alliance between the United States and Taiwan, now in its first phase, will attract other like-minded countries from all over the world to enhance Taiwan talent assets, drive economic growth, upgrade the industry, and enhance Taiwan international influence.
 
 <br/>
-Date:2019-11-18
+Date: 2019-11-18
 <br/>
 Source: Industrial Development Bureau, Ministry of Economic Affairs
