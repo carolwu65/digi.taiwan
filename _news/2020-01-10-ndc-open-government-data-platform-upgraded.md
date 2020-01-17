@@ -1,6 +1,6 @@
 ---
 title: NDC Open Government Data Platform upgraded
-summary: Taiwan’s Open Government Data Platform has been upgraded, underscoring the government’s commitment to improving administrative transparency and promoting civic participation, according to the Cabinet-level National Development Council Jan. 9.
+summary: Taiwan's Open Government Data Platform has been upgraded, underscoring the government's commitment to improving administrative transparency and promoting civic participation, according to the Cabinet-level National Development Council Jan. 9.
 image:  https://image.taiwantoday.tw/images/content/img20200110160636995_800.png
 permalink: news/ndc-open-government-data-platform-upgraded/
 layout: page
