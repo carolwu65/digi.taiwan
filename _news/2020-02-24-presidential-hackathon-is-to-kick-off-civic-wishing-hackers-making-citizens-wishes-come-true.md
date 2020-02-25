@@ -1,7 +1,7 @@
 ---
 title: 2020 Presidential Hackathon is to kick off!Civic wishing, Hackers making citizens' wishes come true
 summary: The 2020 Presidential Hackathon Press Conference and Proposal Submission Briefing was held on February 20 at the National Development Council by the Executive Yuan.
-image:  https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.0-9/87157221_10157906981678490_8254687762909757440_o.jpg?_nc_cat=100&_nc_sid=a61e81&_nc_ohc=NnIetpP8KhwAX--aB62&_nc_ht=scontent.ftpe8-2.fna&oh=d21ea3ee8b058cda3ddd3c78c3c023e6&oe=5EF03C8E
+image:  https://www.moeasmea.gov.tw/images/5010/E5B1F498-E7AF-4912-B677-2F71721025C0
 permalink: news/2020-presidential-hackathon-is-to-kick-off-civic-wishing-hackers-making-citizens-wishes-come-true/
 layout: page
 ---
