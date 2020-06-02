@@ -1,7 +1,7 @@
 ---
 title: Taiwan research team unveils open-source 5G core network
 summary: A communication service and software research team of Taiwan's National Chiao Tung University (NCTU) has introduced an open-source 5G core (5GC) network, according to Taiwan's Ministry of Science and Technology (MOST).
-image:  https://www.digitimes.com/newsshow/20200528PD208_files/2_b.jpg
+image:  /images/20200602news.jpg
 permalink: news/taiwan-research-team-unveils-open-source-5g-core-network/
 layout: page
 ---
