@@ -1,7 +1,7 @@
 ---
 title: How Civic Technology Can Help Stop a Pandemic
 summary: Taiwan’s Initial Success Is a Model for the Rest of the World
-image:  https://cdn.foreignaffairs.com/sites/default/files/styles/article_lead_1x/public/images/articles/2020/03/20/taiwan_0.jpg?itok=dRBf1hqR
+image:  https://kairos.news/wp-content/uploads/2020/03/RTS36H4E-780x470.jpg
 permalink: news/how-civic-technology-can-help-stop-a-pandemic/
 layout: page
 ---
