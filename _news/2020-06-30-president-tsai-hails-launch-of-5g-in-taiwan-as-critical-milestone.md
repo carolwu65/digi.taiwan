@@ -1,7 +1,7 @@
 ---
 title: President Tsai hails launch of 5G in Taiwan as 'critical milestone'
 summary: The start of 5G services by two major telecommunication companies in Taiwan on Tuesday is a "critical milestone" in the development of the country's tech sector, President Tsai Ing-wen (蔡英文) said at one of the launch ceremonies.
-image:  https://imgcdn.cna.com.tw/Eng/WebEngPhotos/1024/2020/20200630/3000x2396_372734614286.jpg
+image:  https://farm66.static.flickr.com/65535/50061147286_57aca9372e_b.jpg
 permalink: news/president-tsai-hails-launch-of-5g-in-taiwan-as-critical-milestone/
 layout: page
 ---
