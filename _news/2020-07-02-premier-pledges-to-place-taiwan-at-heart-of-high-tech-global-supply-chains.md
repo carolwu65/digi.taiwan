@@ -1,7 +1,7 @@
 ---
 title: Premier pledges to place Taiwan at heart of high-tech global supply chains
 summary: Premier Su Tseng-chang on Thursday pledged to help industries adopt 5G and artificial intelligence (AI) technologies following the launch of 5G services in Taiwan June 30.
-image:  /image/20200702news.jpg
+image:  /images/20200702news.jpg
 permalink: news/premier-pledges-to-place-taiwan-at-heart-of-high-tech-global-supply-chains/
 layout: page
 ---
