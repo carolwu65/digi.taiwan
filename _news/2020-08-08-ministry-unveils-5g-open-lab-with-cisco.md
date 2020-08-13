@@ -1,7 +1,7 @@
 ---
 title: Ministry unveils 5G open lab with Cisco
 summary: The open platform would give local firms access to Cisco’s cloud-based mobile network to develop 5G telecom equipment and tap into the global market
-image:  https://www.netadmin.com.tw/netadmin/img/cms/864/486/1/2020-08/202008101451531398308086.jpg
+image:  https://1.bp.blogspot.com/-toftq8DLQV0/Xy0Z2wkrr8I/AAAAAAAAc6g/5YPritBbvtMKy-nTGX5_gR8ZmPKCHwFsACLcBGAsYHQ/s640/0807%25E7%25B6%2593%25E6%2596%25B0%25E8%2581%259E_%25E5%25B7%25A5%25E6%25A5%25AD%25E5%25B1%25805G.jpg
 permalink: news/ministry-unveils-5g-open-lab-with-cisco/
 layout: page
 ---
