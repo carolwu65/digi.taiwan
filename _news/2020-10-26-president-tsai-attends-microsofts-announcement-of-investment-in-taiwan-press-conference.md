@@ -1,7 +1,7 @@
 ---
 title: President Tsai attends Microsoft's announcement of investment in Taiwan press conference
 summary: President Tsai Ing-wen attended a press conference announcing investment from Microsoft in Taiwan on the afternoon of October 26.
-image:  https://english.president.gov.tw/File/Image/c8d3ad79-0132-4d59-9fbd-bbbb4d2c30bb
+image:  https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/74/2020/10/04.jpg
 permalink: news/president-tsai-attends-microsofts-announcement-of-investment-in-taiwan-press-conference/
 layout: page
 ---
