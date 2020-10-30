@@ -1,7 +1,7 @@
 ---
 title: Open government action plan to kick off in 2021：NDC
 summary: The National Development Council (NDC) announced on Wednesday that it has started drafting Taiwan's first open government action plan that will kick off in January
-image:  https://imgcdn.cna.com.tw/Eng/WebEngPhotos/1024/2020/20201029/1024x707_733659893671.jpg
+image:  /images/20201029news.jpg
 permalink: news/open-government-action-plan-to-kick-off-in-2021-ndc/
 layout: page
 ---
